@@ -1,2 +1,3 @@
 config:
   info: "main branch,spring-config/config-dev.yml version=6"
+    test: "123"
